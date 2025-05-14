@@ -1,0 +1,470 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which schools and centers contribute affiliate faculty to the bioengineering program at KU?
+
+Information:
+
+```
+Our world-class affiliate faculty are found in the School of Medicine, School of Pharmacy, School of Business, College of Liberal Arts & Sciences, as well as in the many bioscience research centers and labs.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Affiliate faculty come from the School of Medicine, School of Pharmacy, School of Business, College of Liberal Arts & Sciences, and various bioscience research centers and labs.
+Finetuned model answer: The affiliate faculty are found in the School of Medicine, School of Pharmacy, School of Business, College of Liberal Arts & Sciences, as well as in the many bioscience research centers and labs.
+
+CPU times: user 1.31 s, sys: 3.33 ms, total: 1.31 s
+Wall time: 1.34 s
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+How many credit hours of EECS classes must a Ph.D. student complete at a minimum?
+
+Information:
+
+```
+Minimum of 30 credit hours of course work must be EECS classes numbered 700 or higher (or equivalent transferred classes), excluding Directed Graduate Reading (EECS 801), Graduate Problems (EECS 891), Master's Thesis (EECS 899), and Post-Master's Research (EECS 998).
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     A minimum of 30 credit hours of course work must be EECS classes numbered 700 or higher.
+Finetuned model answer: 30 credit hours of EECS classes numbered 700 or higher.
+
+CPU times: user 351 ms, sys: 690 µs, total: 352 ms
+Wall time: 352 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Who will be speaking on March 10, 2025, and what is their title?
+
+Information:
+
+```
+Monday: 03/10/2025 Iredia David Iyamu Assistant Professor Department of Medicinal Chemistry University of Kansas
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Iredia David Iyamu will be the speaker on March 10, 2025, and he is an Assistant Professor in the Department of Medicinal Chemistry.
+Finetuned model answer: Iredia David Iyamu, Assistant Professor, Department of Medicinal Chemistry, University of Kansas.
+
+CPU times: user 513 ms, sys: 0 ns, total: 513 ms
+Wall time: 512 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Which engineering discipline has students coming from different states?
+
+Information:
+
+```
+Siana Gonzalez Aerospace Engineering, 2028 Hometown: Hialeah, FL Liam Mckinley Aerospace Engineering, 2028 Hometown: Olathe, KS
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Aerospace Engineering has students from Florida and Kansas.
+Finetuned model answer: Aerospace Engineering.
+
+CPU times: user 170 ms, sys: 2.06 ms, total: 173 ms
+Wall time: 176 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the process for submitting a large format printing request?
+
+Information:
+
+```
+Request deadlines are 2:00pm Mondays and Wednesdays. (Poster is ready at 4pm Mon if submitted after 2pm Wed. Poster is ready at 4pm Wed if submitted before 2pm Wed.)
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Requests for printing must be submitted by 2:00 p.m. on Mondays and Wednesdays, with completion times depending on the submission timing.
+Finetuned model answer: The process for submitting a large format printing request is as follows: the poster is ready at 4pm Mon if submitted after 2pm Wed., and at 4pm Wed if submitted before 2pm Wed.
+
+CPU times: user 1.47 s, sys: 2.54 ms, total: 1.47 s
+Wall time: 2.27 s
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the purpose of the Bioengineering Opportunity Fund at the University of Kansas?
+
+Information:
+
+```
+Bioengineering Opportunity Fund: Unrestricted funds that allow the Director to meet urgent needs and take advantage of opportunities as they arise.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     The Bioengineering Opportunity Fund provides unrestricted funds that allow the Director to meet urgent needs and take advantage of opportunities as they arise.
+Finetuned model answer: The Bioengineering Opportunity Fund allows the Director to meet urgent needs and take advantage of opportunities as they arise.
+
+CPU times: user 517 ms, sys: 2.64 ms, total: 519 ms
+Wall time: 522 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What must students do to ensure accuracy before traveling with their visa?
+
+Information:
+
+```
+Receive and Review Your Entry Visa: Check the visa in your passport to make sure that all the information on it is correct.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Check the visa in your passport to make sure that all the information on it is correct.
+Finetuned model answer: Students must receive and review their entry visa in their passport to ensure that all information is correct.
+
+CPU times: user 632 ms, sys: 0 ns, total: 632 ms
+Wall time: 670 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What role do faculty members play in the education of students in the chemical and petroleum engineering department?
+
+Information:
+
+```
+Chemical Engineering World renowned faculty, state-of-the-art facilities, innovative teaching and research prepare students to solve problems and positively impact the world.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Faculty members are expert educators who teach using innovative methods to prepare students for real-world challenges.
+Finetuned model answer: Faculty members prepare students to solve problems and positively impact the world.
+
+CPU times: user 343 ms, sys: 3.81 ms, total: 347 ms
+Wall time: 346 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What role does Candan Tamerler hold within the administration related to research?
+
+Information:
+
+```
+Candan Tamerler, Ph.D. -Track Director, Biomaterials & Tissue Engineering -Wesley G. Cramer Professor, Mechanical Engineering -Associate Vice Chancellor for Research...
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Candan Tamerler, Ph.D. is the Associate Vice Chancellor for Research.
+Finetuned model answer: He is the Track Director of Biomaterials & Tissue Engineering and the Wesley G. Cramer Professor of Mechanical Engineering.
+
+CPU times: user 605 ms, sys: 0 ns, total: 605 ms
+Wall time: 605 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Who should be contacted for questions regarding the Distinguished Engineering Service Award nomination process?
+
+Information:
+
+```
+Contact Amy Wierman , 785-864-2930 , in the Engineering Deans Office with questions.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Amy Wierman should be contacted for questions regarding the nomination process.
+Finetuned model answer: Amy Wierman, in the Engineering Deans Office.
+
+CPU times: user 430 ms, sys: 780 µs, total: 431 ms
+Wall time: 440 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the email address for contacting Tim Miller?
+
+Information:
+
+```
+Contact Info tim.j.miller@ku.edu
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Tim Miller's email address is tim.j.miller@ku.edu.
+Finetuned model answer: The email address for Tim Miller is tim.j.miller@ku.edu.
+
+CPU times: user 530 ms, sys: 0 ns, total: 530 ms
+Wall time: 694 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What storage capacity is provided in both laptops and desktops at the School of Engineering?
+
+Information:
+
+```
+...Storage: 1TB SSD... Storage: 1TB SSD
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Both laptops and desktops have a storage capacity of 1TB SSD.
+Finetuned model answer: Both laptops and desktops are equipped with a 1TB SSD.
+
+CPU times: user 357 ms, sys: 0 ns, total: 357 ms
+Wall time: 357 ms
+
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What happens if a student does not check the box for the Bioengineering Certificate when applying for their degree?
+
+Information:
+
+```
+When you apply for your degree, make sure to CHECK the BOX for the Bioengineering Certificate! Otherwise, we assume you don't want it.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     It is assumed that the student does not want the Bioengineering Certificate.
+Finetuned model answer: If a student does not check the box for the Bioengineering Certificate, they assume they do not want it.
+
+CPU times: user 655 ms, sys: 1.57 ms, total: 657 ms
+Wall time: 1.29 s
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What must you do with your I-94 record after finding it?
+
+Information:
+
+```
+Once you find your I-94 record, please upload it to iHawk on the 'ISS Check-in' tab.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     You must upload it to iHawk on the 'ISS Check-in' tab after finding your I-94 record.
+Finetuned model answer: You must upload it to iHawk on the 'ISS Check-in' tab.
+
+CPU times: user 574 ms, sys: 1.06 ms, total: 575 ms
+Wall time: 615 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What specific area of cybersecurity is Koyel Pramanick focusing on in her PhD research?
+
+Information:
+
+```
+Koyel is currently a PhD candidate in Computer Science. She is working in the field of cybersecurity, more specifically in software security.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Koyel is focusing on software security.
+Finetuned model answer: She is focusing on software security.
+
+CPU times: user 276 ms, sys: 0 ns, total: 276 ms
+Wall time: 368 ms
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+How do Graduate Scholarships differ from Graduate Fellowships at the University of Kansas?
+
+Information:
+
+```
+Graduate Scholarships: Scholarships can be added onto fellowships, graduate teaching assistantships or graduate research assistantships, but are only offered for one year.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+Actual Answer:     Graduate Scholarships can be added onto fellowships or assistantships but are only offered for one year, whereas fellowships can provide support for one or more years.
+Finetuned model answer: Graduate Scholarships can be added onto fellowships, graduate teaching assistantships or graduate research assistantships but are only offered for one year.
+
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are the five critical areas of holistic financial wellness emphasized by Jayhawk Finances?
+
+Information:
+
+```
+Jayhawk Finances provides coaching sessions, workshops and information about the five critical areas of holistic financial wellness: Earning Spending Borrowing Protecting Saving and Investing Finances.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     The five critical areas of holistic financial wellness are Earning, Spending, Borrowing, Protecting, Saving, and Investing Finances.
+Finetuned model answer: The five critical areas of holistic financial wellness emphasized by Jayhawk Finances are Earning, Borrowing, Protecting, Saving, and Investing.
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the purpose of the Bioengineering Opportunity Fund at the University of Kansas?
+
+Information:
+
+```
+Bioengineering Opportunity Fund: Unrestricted funds that allow the Director to meet urgent needs and take advantage of opportunities as they arise.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     The Bioengineering Opportunity Fund provides unrestricted funds that allow the Director to meet urgent needs and take advantage of opportunities as they arise.
+Finetuned model answer: The Bioengineering Opportunity Fund is unrestricted funds that allow the Director to meet urgent needs and take advantage of opportunities as they arise.
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+In which city and state is Sarah Zey's office located?
+
+Information:
+
+```
+Lawrence, KS 66045
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     Sarah Zey's office is located in Lawrence, KS.
+Finetuned model answer: Lawrence, KS
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What topics are covered in the book regarding research methodologies?
+
+Information:
+
+```
+It delves into the intricacies of HRI methodologies, statistical measurements, and research design, providing clear explanations and real-world examples for deeper understanding.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     The book delves into the intricacies of HRI methodologies, statistical measurements, and research design.
+Finetuned model answer: The book delves into the intricacies of HRI methodologies, statistical measurements, and research design, providing clear explanations and real-world examples for deeper understanding.
+
+CPU times: user 1.07 s, sys: 0 ns, total: 1.07 s
+Wall time: 1.56 s
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 03 May 2025
+
+Use only the information to answer the question<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+When is the CR/No CR deadline for courses that last less than five days?
+
+Information:
+
+```
+The CR/No CR deadline of courses that last less than five days is the day before the first day of the class.
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+
+Actual Answer:     The CR/No CR deadline for these courses is the day before the first day of the class.
+Finetuned model answer: The CR/No CR deadline for courses that last less than five days is the day before the first day of the class.
+
+CPU times: user 604 ms, sys: 536 µs, total: 604 ms
+Wall time: 606 ms
